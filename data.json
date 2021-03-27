@@ -1,0 +1,59 @@
+[
+	{
+		"companyName": "Continental",
+		"firstTimeWorking": ["Y", "N"],
+		"yearsOfExperience":["<1","1-3","5+"],
+		"favoriteLanguages":["C","Java"],
+		"hardwareOrSoftware":["H","S"],
+		"parttimeOrfulltime":["FT","PT"],
+		"programmingType":["procedural","oop"],
+		"technicalField":["automotive","embedded"]
+
+	},
+	{
+		"companyName": "Hella",
+		"firstTimeWorking": ["Y", "N"],
+		"yearsOfExperience":["<1","1-3","5+"],
+		"favoriteLanguages":["C","Java"],
+		"hardwareOrSoftware":["H","S"],
+		"parttimeOrfulltime":["FT","PT"],
+		"programmingType":["procedural","oop"],
+		"technicalField":["automotive"]
+
+	},
+
+	{
+		"companyName": "FEV",
+		"firstTimeWorking": ["Y", "N"],
+		"yearsOfExperience":["<1","1-3","5+"],
+		"favoriteLanguages":["C"],
+		"hardwareOrSoftware":["H","S"],
+		"parttimeOrfulltime":["FT"],
+		"programmingType":["procedural"],
+		"technicalField":["automotive"]
+
+	},
+	{
+		"companyName": "BusyMachines",
+		"firstTimeWorking": ["Y", "N"],
+		"yearsOfExperience":["<1","1-3","5+"],
+		"favoriteLanguages":["Scala","Java"],
+		"hardwareOrSoftware":["S"],
+		"parttimeOrfulltime":["FT","PT"],
+		"programmingType":["functional"],
+		"technicalField":["web","mobile"]
+
+	},
+		{
+		"companyName": "Intel",
+		"firstTimeWorking": ["N"],
+		"yearsOfExperience":["1-3","5+"],
+		"favoriteLanguages":["C"],
+		"hardwareOrSoftware":["S","H"],
+		"parttimeOrfulltime":["FT"],
+		"programmingType":["procedural"],
+		"technicalField":["embedded"]
+
+	},
+
+]
