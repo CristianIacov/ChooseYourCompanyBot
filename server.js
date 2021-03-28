@@ -29,7 +29,7 @@ var questions = [
     type: 'list',
     name: 'favoriteLanguages',
     message: 'What is your favorite programming language?',
-    choices: ['Java','C','Scala'],
+    choices: ['Java','C','Scala','Python','javascript'],
     },
       {
     type: 'list',
@@ -53,7 +53,7 @@ var questions = [
     type: 'list',
     name: 'technicalField',
     message: 'In what technical field do you want your company to be ?',
-    choices: ['automotive','embedded','mobile','web'],
+    choices: ['automotive','embedded','mobile','web','Any'],
     },
 
 ];
